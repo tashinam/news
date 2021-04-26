@@ -1,0 +1,21 @@
+,Topic 0,Topic 1,Topic 2,Topic 3,Topic 4,Topic 5,Value
+0,News Topics,Computing,Graphics,,,,50
+1,News Topics,Computing,OS,Microsoft Windows,Miscellaneous,,2
+2,News Topics,Computing,System,IBM,PC,Hardware,2
+3,News Topics,Computing,System,Mac,Hardware,,15
+4,News Topics,Computing,Windows,X,,,3
+5,News Topics,Miscellaneous,For Sale,,,,120
+6,News Topics,Recreation,Automobiles,,,,0
+7,News Topics,Recreation,Motorcycles,,,,12
+8,News Topics,Recreation,Sport,Baseball,,,143
+9,News Topics,Recreation,Sport,Hockey,,,19
+10,News Topics,Talk,Politics,Guns,,,5
+11,News Topics,Talk,Politics,Miscellaneous,,,100
+12,News Topics,Talk,Politics,Middle East,,,2
+13,News Topics,Science,Cryptography,,,,8
+14,News Topics,Science,Electronics,,,,56
+15,News Topics,Science,Medicine,,,,112
+16,News Topics,Science,Space,,,,53
+17,News Topics,Talk,Religion,Miscellaneous,,,53
+18,News Topics,Alternative,Atheism,,,,5
+19,News Topics,Society,Religion,Christian,,,36
